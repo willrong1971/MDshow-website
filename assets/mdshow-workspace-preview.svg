@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100" role="img" aria-label="MDshow app workspace preview">
+  <rect width="1800" height="1100" fill="#172326"/>
+  <rect x="0" y="0" width="760" height="1100" fill="#132023"/>
+  <rect x="760" y="0" width="1040" height="1100" fill="#1b3032"/>
+  <rect x="94" y="248" width="390" height="1" fill="#d7e8e4" opacity="0.12"/>
+  <rect x="94" y="316" width="520" height="1" fill="#d7e8e4" opacity="0.1"/>
+  <rect x="94" y="384" width="454" height="1" fill="#d7e8e4" opacity="0.08"/>
+  <rect x="94" y="720" width="160" height="12" rx="6" fill="#d7e8e4" opacity="0.18"/>
+  <rect x="94" y="760" width="360" height="12" rx="6" fill="#d7e8e4" opacity="0.12"/>
+  <rect x="94" y="800" width="290" height="12" rx="6" fill="#d7e8e4" opacity="0.1"/>
+
+  <rect x="620" y="104" width="1048" height="790" rx="34" fill="#eef5f2"/>
+  <rect x="620" y="104" width="1048" height="790" rx="34" fill="none" stroke="#a8b9b5" stroke-width="2"/>
+  <rect x="620" y="104" width="1048" height="70" rx="34" fill="#20373a"/>
+  <rect x="620" y="140" width="1048" height="38" fill="#20373a"/>
+  <circle cx="662" cy="139" r="9" fill="#c86246"/>
+  <circle cx="692" cy="139" r="9" fill="#d1a24a"/>
+  <circle cx="722" cy="139" r="9" fill="#5e9c7a"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif">
+    <text x="774" y="147" fill="#d9e8e4" font-size="16" font-weight="700">MDshow 工作台</text>
+  </g>
+
+  <rect x="652" y="204" width="206" height="648" rx="18" fill="#1d3134"/>
+  <rect x="678" y="236" width="134" height="18" rx="9" fill="#d7e8e4" opacity="0.84"/>
+  <rect x="678" y="286" width="154" height="34" rx="8" fill="#2f5356"/>
+  <rect x="678" y="336" width="118" height="14" rx="7" fill="#b9d0ca" opacity="0.7"/>
+  <rect x="678" y="372" width="138" height="14" rx="7" fill="#b9d0ca" opacity="0.52"/>
+  <rect x="678" y="408" width="104" height="14" rx="7" fill="#b9d0ca" opacity="0.52"/>
+  <rect x="678" y="476" width="158" height="34" rx="8" fill="#246f70"/>
+  <rect x="678" y="532" width="136" height="14" rx="7" fill="#b9d0ca" opacity="0.6"/>
+  <rect x="678" y="568" width="118" height="14" rx="7" fill="#b9d0ca" opacity="0.52"/>
+  <rect x="678" y="604" width="150" height="14" rx="7" fill="#b9d0ca" opacity="0.52"/>
+  <rect x="678" y="728" width="132" height="44" rx="8" fill="#d7e8e4" opacity="0.16"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif" font-size="14" fill="#e8f3ef">
+    <text x="694" y="308">项目资料</text>
+    <text x="694" y="498">写作草稿</text>
+    <text x="698" y="756">导出面板</text>
+  </g>
+
+  <rect x="886" y="204" width="444" height="648" rx="18" fill="#ffffff"/>
+  <rect x="916" y="236" width="120" height="32" rx="8" fill="#246f70"/>
+  <rect x="1048" y="236" width="94" height="32" rx="8" fill="#edf4f1"/>
+  <rect x="1156" y="236" width="116" height="32" rx="8" fill="#edf4f1"/>
+  <text x="936" y="257" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">双栏视图</text>
+  <text x="1068" y="257" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif" font-size="14" font-weight="700" fill="#496063">源码</text>
+  <text x="1176" y="257" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif" font-size="14" font-weight="700" fill="#496063">渲染</text>
+
+  <rect x="916" y="302" width="170" height="18" rx="9" fill="#172326"/>
+  <rect x="916" y="348" width="348" height="13" rx="6" fill="#657579" opacity="0.56"/>
+  <rect x="916" y="378" width="316" height="13" rx="6" fill="#657579" opacity="0.34"/>
+  <rect x="916" y="408" width="350" height="13" rx="6" fill="#657579" opacity="0.34"/>
+  <rect x="916" y="458" width="376" height="86" rx="10" fill="#edf4f1"/>
+  <rect x="940" y="484" width="136" height="12" rx="6" fill="#246f70" opacity="0.76"/>
+  <rect x="940" y="512" width="268" height="12" rx="6" fill="#657579" opacity="0.38"/>
+  <rect x="916" y="582" width="300" height="13" rx="6" fill="#657579" opacity="0.42"/>
+  <rect x="916" y="612" width="356" height="13" rx="6" fill="#657579" opacity="0.34"/>
+  <rect x="916" y="662" width="210" height="18" rx="9" fill="#172326"/>
+  <rect x="916" y="708" width="332" height="13" rx="6" fill="#657579" opacity="0.42"/>
+  <rect x="916" y="738" width="280" height="13" rx="6" fill="#657579" opacity="0.34"/>
+  <rect x="916" y="768" width="352" height="13" rx="6" fill="#657579" opacity="0.34"/>
+
+  <rect x="1352" y="204" width="284" height="648" rx="18" fill="#f9fbfa"/>
+  <rect x="1380" y="236" width="118" height="28" rx="8" fill="#c86246"/>
+  <text x="1400" y="255" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">AI 对话</text>
+  <rect x="1380" y="300" width="198" height="66" rx="12" fill="#edf4f1"/>
+  <rect x="1402" y="322" width="134" height="10" rx="5" fill="#657579" opacity="0.42"/>
+  <rect x="1402" y="344" width="92" height="10" rx="5" fill="#657579" opacity="0.28"/>
+  <rect x="1414" y="398" width="188" height="94" rx="12" fill="#e6f1ed"/>
+  <rect x="1436" y="424" width="118" height="10" rx="5" fill="#246f70" opacity="0.74"/>
+  <rect x="1436" y="448" width="132" height="10" rx="5" fill="#657579" opacity="0.36"/>
+  <rect x="1436" y="472" width="96" height="10" rx="5" fill="#657579" opacity="0.28"/>
+  <rect x="1380" y="548" width="204" height="56" rx="12" fill="#edf4f1"/>
+  <rect x="1402" y="570" width="148" height="10" rx="5" fill="#657579" opacity="0.42"/>
+  <rect x="1380" y="666" width="228" height="54" rx="12" fill="#1d3134"/>
+  <text x="1410" y="700" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">写入 Markdown 标签页</text>
+
+  <rect x="872" y="914" width="684" height="82" rx="16" fill="#eef5f2" opacity="0.95"/>
+  <rect x="900" y="940" width="116" height="30" rx="8" fill="#246f70"/>
+  <rect x="1038" y="940" width="124" height="30" rx="8" fill="#315f8c"/>
+  <rect x="1184" y="940" width="98" height="30" rx="8" fill="#c86246"/>
+  <rect x="1304" y="940" width="116" height="30" rx="8" fill="#b8882f"/>
+  <text x="922" y="960" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">导入</text>
+  <text x="1060" y="960" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">编辑</text>
+  <text x="1204" y="960" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">AI</text>
+  <text x="1326" y="960" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">导出</text>
+</svg>

@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="MDshow 1.0 官方说明页。一个以 Markdown 标签页为核心的 AI 文档工作台，连接导入、阅读、编辑、翻译、AI 对话与导出。">
+  <title>MDshow 1.0 | AI Markdown 文档工作台</title>
+  <link rel="preload" href="assets/mdshow-workspace-preview.png" as="image">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到正文</a>
+
+  <header class="site-header" data-header>
+    <a class="brand-mark" href="#top" aria-label="返回 MDshow 首页">
+      <span class="brand-symbol">M</span>
+      <span>MDshow</span>
+    </a>
+    <nav class="site-nav" aria-label="主导航">
+      <a href="#workflow">工作流</a>
+      <a href="#features">能力</a>
+      <a href="#guide">帮助</a>
+      <a href="#release">版本</a>
+    </nav>
+    <a class="header-action" href="#delivery">交付格式</a>
+  </header>
+
+  <section id="top" class="hero" aria-label="MDshow 介绍">
+    <div class="hero-media" aria-hidden="true"></div>
+    <div class="hero-shade" aria-hidden="true"></div>
+    <div class="hero-inner">
+      <p class="eyebrow">当前正式公开版本 1.0</p>
+      <h1>MDshow</h1>
+      <p class="hero-kicker">以 Markdown 标签页为核心的 AI 文档工作台</p>
+      <p class="hero-copy">
+        把导入、阅读、编辑、翻译、AI 对话与导出放进同一个工作环境，让研究材料、公文草稿、知识笔记和交付文件围绕一份可长期维护的 Markdown 母稿流转。
+      </p>
+      <div class="hero-actions" aria-label="页面快捷入口">
+        <a class="primary-link" href="#workflow">查看主工作流</a>
+        <a class="secondary-link" href="#guide">阅读帮助文档</a>
+      </div>
+      <ul class="hero-facts" aria-label="MDshow 快速事实">
+        <li>
+          <span>主线流程</span>
+          <strong>导入 -> 阅读 / 编辑 / 翻译 / AI 对话 -> 导出</strong>
+        </li>
+        <li>
+          <span>核心载体</span>
+          <strong>Markdown 标签页</strong>
+        </li>
+        <li>
+          <span>目标用户</span>
+          <strong>研究、材料整理、公文写作与知识生产</strong>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <main id="main">
+    <section class="section-band intro-band" aria-labelledby="positioning-title">
+      <div class="section-grid">
+        <div>
+          <p class="section-label">产品定位</p>
+          <h2 id="positioning-title">让内容创作重新站到前台</h2>
+        </div>
+        <div class="lead-copy">
+          <p>
+            MDshow 1.0 已经不只是轻量 Markdown 编辑器。它更像一个文档处理平台，把外部资料转换成可继续加工的 Markdown，再让阅读、修改、翻译、AI 协作和最终导出保持在同一个标签页世界里。
+          </p>
+          <p>
+            它的思路很直接：Markdown 承载内容，标签页组织工作过程，AI 辅助格式、结构、翻译和对话。格式劳动退到后台，用户把注意力留给判断、组织和表达。
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="workflow" class="section-band workflow-band" aria-labelledby="workflow-title">
+      <div class="section-heading">
+        <p class="section-label">主工作流</p>
+        <h2 id="workflow-title">从资料入口到交付出口，一条链走完</h2>
+      </div>
+      <ol class="workflow-track">
+        <li>
+          <span class="step-number">01</span>
+          <h3>导入外部材料</h3>
+          <p>接收 Word、Excel、PowerPoint、PDF、网页、图片和音频，把它们转换成适合继续处理的 Markdown 工作材料。</p>
+        </li>
+        <li>
+          <span class="step-number">02</span>
+          <h3>阅读与编辑</h3>
+          <p>在渲染视图、源码视图、双栏视图之间切换，保持长文阅读焦点，继续清洗、摘录、改写和组织。</p>
+        </li>
+        <li>
+          <span class="step-number">03</span>
+          <h3>翻译与 AI 协作</h3>
+          <p>按标签页隔离翻译状态，把 AI 对话写入同一份文档，也可以通过文档助手审阅和受控改写。</p>
+        </li>
+        <li>
+          <span class="step-number">04</span>
+          <h3>导出交付文件</h3>
+          <p>把当前 Markdown 母稿导出为 Word、PDF、HTML、Excel 或 PowerPoint，让交付格式成为工作流的出口，而不是唯一源文件。</p>
+        </li>
+      </ol>
+    </section>
+
+    <section id="features" class="section-band feature-band" aria-labelledby="features-title">
+      <div class="section-heading">
+        <p class="section-label">核心能力</p>
+        <h2 id="features-title">MDshow 1.0 已经形成的工作闭环</h2>
+      </div>
+      <div class="feature-grid">
+        <article class="feature-card">
+          <span class="feature-tag">Tabs</span>
+          <h3>标签页工作台</h3>
+          <p>多标签并行承载来源、草稿、译文、AI 输出和交付中间稿。每个标签页保留独立内容、视图状态、翻译状态和撤销历史。</p>
+        </article>
+        <article class="feature-card">
+          <span class="feature-tag">Views</span>
+          <h3>三种文档视图</h3>
+          <p>渲染视图适合阅读，源码视图适合直接改写，双栏视图适合核对。视图切换会尽量保持用户正在看的位置。</p>
+        </article>
+        <article class="feature-card">
+          <span class="feature-tag">Vim</span>
+          <h3>实用 Vim 工作流</h3>
+          <p>支持常用移动、删除、复制、粘贴、撤销、重做、可视选择和命令模式，也支持通过命令导出常见交付格式。</p>
+        </article>
+        <article class="feature-card">
+          <span class="feature-tag">AI</span>
+          <h3>对话即文档</h3>
+          <p>AI 对话不是孤立弹窗，而是标签页内容的一部分。对话记录、上下文和生成结果都能沉淀为 Markdown 工作记录。</p>
+        </article>
+        <article class="feature-card">
+          <span class="feature-tag">Project</span>
+          <h3>项目工作区</h3>
+          <p>打开目录作为项目后，可以使用项目树、作用域助手、项目知识面板和写作 runtime，适合跨多份材料的长链路写作。</p>
+        </article>
+        <article class="feature-card">
+          <span class="feature-tag">Safety</span>
+          <h3>文档安全与恢复</h3>
+          <p>自动保存、未保存提示、关闭保护、崩溃恢复和标签切换安全共同降低长时间写作中的数据风险。</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="guide" class="section-band guide-band" aria-labelledby="guide-title">
+      <div class="section-heading">
+        <p class="section-label">帮助文档</p>
+        <h2 id="guide-title">从应用内帮助转写成网页说明</h2>
+      </div>
+
+      <div class="guide-layout">
+        <aside class="guide-nav" aria-label="帮助目录">
+          <a href="#guide-start">10 分钟快速上手</a>
+          <a href="#guide-import">打开与导入</a>
+          <a href="#guide-edit">阅读与编辑</a>
+          <a href="#guide-ai">AI 与文档助手</a>
+          <a href="#guide-project">项目工作区</a>
+          <a href="#delivery">模板与导出</a>
+        </aside>
+
+        <div class="guide-list">
+          <article id="guide-start" class="guide-panel">
+            <h3>10 分钟快速上手</h3>
+            <p>第一次打开 MDshow 时，可以从空白窗口走到第一份可用输出：</p>
+            <ol>
+              <li>按 <code>Cmd+N</code> 新建空白文档，新的空白文档会直接进入可编辑源码视图。</li>
+              <li>用 <code>Cmd+O</code> 打开已有 Markdown 文件，已有文档会先进入渲染视图，适合先阅读。</li>
+              <li>把来源、草稿和输出分别放进不同标签页，让每份材料都有清楚的位置。</li>
+              <li>内容成熟后，用导出功能生成 Word、PDF、HTML、Excel 或 PowerPoint 文件。</li>
+            </ol>
+          </article>
+
+          <article id="guide-import" class="guide-panel">
+            <h3>打开和导入的区别</h3>
+            <p>如果 <code>.md</code> 已经是主工作文件，用打开继续直接编辑；如果输入来自 <code>.docx</code>、<code>.xlsx</code>、<code>.pptx</code>、<code>.pdf</code>、网页、图片或音频，用导入转换成 Markdown 工作材料。</p>
+            <p>导入路径会尽量保留正文、表格、脚注、批注、备注、图片和结构线索，并通过 warning、阶段信息或统计数据解释结果来自确定性解析、AI 增强、OCR 还是回退路径。</p>
+          </article>
+
+          <article id="guide-edit" class="guide-panel">
+            <h3>阅读、编辑、标签页与分屏</h3>
+            <p>MDshow 提供渲染、源码和双栏三种视图。渲染适合浏览长文，源码适合精确编辑，双栏适合对照核查。多标签和同文档分屏让来源材料、草稿和 AI 输出可以并排处理。</p>
+            <p>Vim 层是效率工具，覆盖常用移动、编辑和命令模式。用户仍然可以结合鼠标选择、macOS 菜单和快捷键完成更快的操作。</p>
+          </article>
+
+          <article id="guide-ai" class="guide-panel">
+            <h3>翻译、AI 对话与文档助手</h3>
+            <p>翻译会话按标签页隔离。配置 Gemini、Qwen、OpenAI 或 DeepSeek 后，可以渐进翻译、中途停止，或把译文导出成新标签页。</p>
+            <p>AI 对话标签适合把提问和回答保留成工作记录。文档助手则面向受控改写，会先准备变更预览，再由用户决定接受、拒绝或回退。</p>
+          </article>
+
+          <article id="guide-project" class="guide-panel">
+            <h3>项目工作区与安全边界</h3>
+            <p>通过 Project 菜单打开目录后，MDshow 会显示项目树、记住最近项目，并把项目根目录作为助手和 runtime trace 的参考边界。</p>
+            <p>项目助手、文档上下文、文件操作和写作 runtime 都被设计成显式、可控、可追踪，尤其适合跨多份源资料、提纲文件、工作笔记和交付产物的长文工作。</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="delivery" class="section-band delivery-band" aria-labelledby="delivery-title">
+      <div class="section-heading">
+        <p class="section-label">导入与交付</p>
+        <h2 id="delivery-title">让 Markdown 成为长期母稿</h2>
+      </div>
+      <div class="matrix-grid" aria-label="格式支持">
+        <div class="format-box">
+          <h3>可导入</h3>
+          <ul class="format-list">
+            <li>Word <span>.docx</span></li>
+            <li>Excel <span>.xlsx / .xls</span></li>
+            <li>PowerPoint <span>.pptx</span></li>
+            <li>PDF <span>.pdf</span></li>
+            <li>网页 URL <span>结构化网页导入</span></li>
+            <li>图片与音频 <span>OCR / 转写路径</span></li>
+          </ul>
+        </div>
+        <div class="format-box">
+          <h3>可导出</h3>
+          <ul class="format-list">
+            <li>Word <span>.docx</span></li>
+            <li>PDF <span>.pdf</span></li>
+            <li>HTML <span>.html</span></li>
+            <li>Excel <span>.xlsx</span></li>
+            <li>PowerPoint <span>.pptx</span></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="release" class="section-band release-band" aria-labelledby="release-title">
+      <div class="section-grid">
+        <div>
+          <p class="section-label">版本说明</p>
+          <h2 id="release-title">1.0 是当前唯一公开版本号</h2>
+        </div>
+        <div class="release-copy">
+          <p>
+            当前正式公开版本为 <strong>1.0</strong>。官网、发布说明、关于窗口、帮助文案和打包材料都统一使用这个版本号。
+          </p>
+          <p>
+            1.0 已经达到实用状态，但仍会继续打磨复杂 PDF 识别、极端网页与 Office 边角格式、Excel 视觉样式、复杂 PowerPoint 自由布局，以及更完整的 Vim 命令覆盖。
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-band audience-band" aria-labelledby="audience-title">
+      <div class="section-heading">
+        <p class="section-label">适合人群</p>
+        <h2 id="audience-title">给长期和材料打交道的人</h2>
+      </div>
+      <div class="audience-grid">
+        <p>历史、文化、社科研究者</p>
+        <p>长期处理资料和文稿的人</p>
+        <p>公文、汇报稿、材料稿撰写者</p>
+        <p>希望用 Markdown 完成写作与导出的用户</p>
+        <p>需要借助 AI 做整理、翻译和加工的知识工作者</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div>
+      <strong>MDshow 1.0</strong>
+      <p>Will Rong · 九福爸爸 · <a href="mailto:willrong@126.com">willrong@126.com</a></p>
+    </div>
+    <a href="#top">回到顶部</a>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
