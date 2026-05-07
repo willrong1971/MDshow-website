@@ -4,6 +4,11 @@ This folder contains a standalone static website for MDshow 1.0.
 
 Open `index.html` directly in a browser. No build step or local server is required.
 
+Pages:
+
+- `index.html`: product landing page and help overview
+- `privacy.html`: privacy policy page for App Store Connect and public website use
+
 Content sources:
 
 - `docs/README.md`

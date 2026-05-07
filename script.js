@@ -2,7 +2,10 @@
   const header = document.querySelector("[data-header]");
   const navLinks = Array.from(document.querySelectorAll(".site-nav a, .guide-nav a"));
   const targets = navLinks
-    .map((link) => document.querySelector(link.getAttribute("href")))
+    .map((link) => {
+      const href = link.getAttribute("href");
+      return href && href.startsWith("#") ? document.querySelector(href) : null;
+    })
     .filter(Boolean);
 
   function setHeaderState() {
